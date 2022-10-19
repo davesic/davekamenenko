@@ -1,3 +1,3 @@
 <h1 align="center">Hi, I'm <b>David</b>, currently live in the UA  :triangular_flag_on_post:
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
